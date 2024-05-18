@@ -136,5 +136,7 @@ import StoreKit
 
 SKStoreReviewController.requestReview()
 // my sample change
+// My sample 2
+
 
 
