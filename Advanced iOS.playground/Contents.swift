@@ -133,6 +133,7 @@ view.endEditing(false) // this asks textfield permission to quit.
 // You can ask user to review the app by doing below
 
 import StoreKit
+// kinkn
 
 SKStoreReviewController.requestReview()
 
